@@ -13,6 +13,7 @@ dependencies:
       - lightning-transformers
       - pytorch-lightning
       - scikit-learn
+      - torchgeo
       - torchaudio
       - torchtext
       - torchvision

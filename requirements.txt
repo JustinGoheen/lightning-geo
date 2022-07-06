@@ -2,6 +2,7 @@
 lightning
 pytorch-lightning
 lightning-grid
+torchgeo
 hydra-core
 click
 colorama
